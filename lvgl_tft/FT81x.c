@@ -22,7 +22,7 @@
 #define BLACK	0x000000UL
 
 /* memory-map defines */
-#define SCREEN_BITMAP_ADDR	0x00000000	// full screen buffer (0x00000000 - 0x000‭‭BBE40‬)
+#define SCREEN_BITMAP_ADDR	0x00000000	// full screen buffer (0x00000000 - 0x000BBE40)
 
 uint8_t tft_active = 0;
 
